@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile D:\Openserver\Unpacked\OSPanel\domains\GeekBrains\admin\.htpasswd
+Require valid-user
